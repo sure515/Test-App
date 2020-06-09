@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_476057_test_cust.test1_user" name="x_476057_test_cust.test1_user">fd03aea12f5d5c10cd0f9bacf699b634</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-09 14:11:15</sys_created_on>
+        <sys_id>b103aea12f5d5c10cd0f9bacf699b638</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>fd03aea12f5d5c10cd0f9bacf699b634</sys_name>
+        <sys_package display_value="Test custom application" source="x_476057_test_cust">7852aeed2f1d5c10cd0f9bacf699b67d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test custom application">7852aeed2f1d5c10cd0f9bacf699b67d</sys_scope>
+        <sys_update_name>sys_embedded_help_role_b103aea12f5d5c10cd0f9bacf699b638</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-09 14:11:15</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
